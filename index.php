@@ -54,6 +54,7 @@ session_start();
             text-align: center;
             text-decoration: none;
             margin-bottom: 10px;
+            border-radius: 10px;
         }
 
         .itens-carrinho {
@@ -82,6 +83,7 @@ session_start();
             background-color: brown;
             text-align: center;
             text-decoration: none;
+            border-radius: 10px;
         }
 
         #quantidade-produto {
